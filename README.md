@@ -1,2 +1,2 @@
 # suman-kumar
-This is my git-hib profile.
+This is my git-hub profile.
